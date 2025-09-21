@@ -1,6 +1,8 @@
 # MERN ThinkBoard
+![Video Demo] (https://youtu.be/diXLIoQoP9g)
 
 MERN ThinkBoard is a note management application built with the MERN stack (MongoDB, Express, React, Node.js). It allows users to create, edit, search, filter, and manage notes, with additional features like reminders and file uploads.
+
 ## Features
 
 ### Core Features
